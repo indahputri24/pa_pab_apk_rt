@@ -56,6 +56,8 @@ Satu hal lagi yang penting: **website ini sudah responsive**. Berkat Bootstrap 5
 
 ## 🎨 PENJELASAN DESAIN
 
+Saya menyimpan file CSS dan JavaScript di folder public karena folder tersebut merupakan direktori yang dapat diakses langsung oleh browser. Sedangkan folder resources biasanya digunakan untuk file mentah yang perlu diproses terlebih dahulu menggunakan tools seperti Vite, dan dalam project ini saya tidak menggunakan build tools, sehingga saya menggunakan folder public.
+
 Dari sisi desain, saya sengaja pilih konsep yang elegan dengan nuansa **earthy** atau warna-warna alam. Palet warnanya dominan krem, coklat, dan gold — yang saya definisikan sebagai CSS custom properties seperti `--cream`, `--brown`, dan `--gold`. Tujuannya biar ada konsistensi warna di seluruh halaman.
 
 Untuk font, saya pakai dua jenis: **Cormorant Garamond** yang terasa klasik dan mewah untuk judul-judul besar, dan **Nunito** yang lebih bersih untuk teks paragraf. Kombinasi ini bikin kesan elegan tapi tetap mudah dibaca.
